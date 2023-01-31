@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackAsTool>true</PackAsTool>
+    <PackageOutputPath>./tools</PackageOutputPath>
+  </PropertyGroup>
+
+</Project>
