@@ -15,7 +15,7 @@ Collection of different dotent Tools.
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <PackAsTool>true</PackAsTool>
-    <PackageOutputPath>./tools</PackageOutputPath>
+    <PackageOutputPath>.././tools</PackageOutputPath>
   </PropertyGroup>
 
 </Project>
