@@ -52,7 +52,7 @@ namespace {namespaceName}.{actionName}
     {{
     public async Task<{actionName}Result> Handle({actionName}Command request, CancellationToken cancellationToken)
         {{
-
+            throw new NotImplementedException();
         }}
     }}
 }}");
